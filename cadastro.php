@@ -88,7 +88,7 @@ Cadastro: <br>
 <td><input type="text" name="cpf" id="cpf"></td>
 </tr>
 <tr>
-<td><label>Senha:</label></td>
+<td><label>Senha (8 digitos):</label></td>
 <td><input type="password" name="senha" id="senha"></td>
 </tr>
 <tr>

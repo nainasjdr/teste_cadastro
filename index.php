@@ -12,8 +12,8 @@ $objLogin = new Login();
 <div class='form-login'>
 Acessar: <br>
 <form method="POST" action="">
-<label>CPF:</label><input type="text" name="cpf" id="cpf" placeholder='012345678912'><br>
-<label>Senha:</label><input type="password" name="senha" id="senha"><br>
+<label>CPF (apenas números):</label><input type="text" name="cpf" id="cpf" placeholder='012345678912'><br>
+<label>Senha(8 digitos):</label><input type="password" name="senha" id="senha"><br>
 <input type="submit" value="entrar" id="entrar" name="entrar"><br>
 </form>
 </div>
